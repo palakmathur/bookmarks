@@ -14,3 +14,12 @@ In an effort to _not_ have 100+ tabs open&hellip;
 * [Watchlist](Watchlist.md)
 * [Wishlist](Wishlist.md)
 
+# Using Pandoc
+
+This project uses [Pandoc](http://pandoc.org), a cool application written in Haskell to generate HTML5 pages from
+markdown format files.
+
+On OX X (macOS), to install Pandoc, you can use:
+       brew install pandoc
+
+And you are good to go.
