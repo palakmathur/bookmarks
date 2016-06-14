@@ -1,6 +1,8 @@
 ---
 pagetitle: Haskell
 ---
-# Books
+#Haskell
 
-* Haskell Book (([haskellbook](http://haskellbook.com)
+## Books
+
+* Haskell Book ([haskellbook](http://haskellbook.com))
