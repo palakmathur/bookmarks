@@ -1,8 +1,8 @@
-# Tyler Cipriani's Bookmarks
+# Palak Mathur's Bookmarks
 
 In an effort to _not_ have 100+ tabs open&hellip;
 
-* [My Photography](http://www.flickr.com/photos/tylercipriani/)
+* [My Photography](https://www.instagram.com/plkmthr/)
 * [Design](Design.html)
 * [Development](Development.html)
 * [Business](Business.html)
