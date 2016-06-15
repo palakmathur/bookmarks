@@ -565,6 +565,11 @@ Databases
 * Install MongoDB on Ubuntu ([docs.mongodb.org](http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/))
 * Getting Started Mongo ([nettuts](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/))
 
+### Microservices and APIs
+
+* Microservices - a new definition of this new architectural term ([Martin Fowler](http://martinfowler.com/articles/microservices.html))
+* A Microservices Primer ([Matthew Reinbold](http://voxpop.co/go.cfm?article=A_Microservice_Primer))
+
 ### @neckbeardhacker
 
 * Large scale e-commerce apache and perl ([perl](http://www.perl.com/pub/2001/10/17/etoys.html))
