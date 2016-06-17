@@ -44,4 +44,4 @@ commit:
 	cd $(GHPAGES) && \
 		git push origin $(GHPAGES)
 
-.PHONY: init gh-pages clean commit serve deploy
+.PHONY: init gh-pages clean commit

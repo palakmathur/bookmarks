@@ -1,3 +1,6 @@
+---
+pagetitle: Palak's Bookmarks
+---
 [[Back to Website](http://palakmathur.in)]
 
 # Palak Mathur's Bookmarks
@@ -15,4 +18,3 @@ In an effort to _not_ have 100+ tabs open&hellip;
 
 * [Readlist](Readlist.html)
 * [Watchlist](Watchlist.html)
-* [Wishlist](Wishlist.html)

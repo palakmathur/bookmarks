@@ -2,10 +2,10 @@
 pagetitle: dev stuffs
 ---
 Development
-===
+===========
 
 Articles
----
+--------
 
 * HAKMEM ([dspace.mit.edu](http://dspace.mit.edu/handle/1721.1/6086))
 * How to break into security ([krebsonsecurity.com](http://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/#more-15594))
@@ -37,8 +37,9 @@ Articles
 * D-Note – Self destructing, encrypted anonymous notes ([pthree.org](https://pthree.org/2014/06/09/officially-announcing-d-note-version-1-0/))
 
 Books
----
+-----
 
+* Haskell Book ([haskellbook](http://haskellbook.com))
 * Unix and linux System Administration Handbook ([admin.com](http://admin.com/))
 * Computer Science from the Bottom Up ([bottomupcs](http://www.bottomupcs.com/))
 * Bayesian Methods for Hackers ([camdavidsonpilon.github](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/))
@@ -50,7 +51,7 @@ Books
 * An Introduction to Computer Networks ([intronetworks.cs.luc.edu](http://intronetworks.cs.luc.edu/current/ComputerNetworks.pdf))
 
 Tools
----
+-----
 
 * US-AltGr-Intl Console Keymap ([max-klinger.org](http://max-klinger.org/projects/us-intl-keymap.php))
 * Keyboard Configuration in Console ([wiki.archlinux.org](https://wiki.archlinux.org/index.php/Keyboard_configuration_in_console))
@@ -356,6 +357,7 @@ Programming
 ### Haskell
 
   * The JavaScript Problem ([haskell.org](http://www.haskell.org/haskellwiki/The_JavaScript_Problem))
+  * Haskell Book ([haskellbook](http://haskellbook.com))
 
 ### Music/Audio
 * M4A to MP3 ([conjurecode.com](http://conjurecode.com/converting-m4a-to-mp3-with-ffmpeg-on-linux/))
