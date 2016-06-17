@@ -1,6 +1,3 @@
----
-pagetitle: Palak's Bookmarks
----
 [[Back to Website](http://palakmathur.in)]
 
 # Palak Mathur's Bookmarks
