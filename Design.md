@@ -1,6 +1,8 @@
 ---
 pagetitle: Design Links
 ---
+[[Back to Bookmarks' Index](http://palakmathur.in/bookmarks/)]
+
 # Design Links
 
 ## Inspirations

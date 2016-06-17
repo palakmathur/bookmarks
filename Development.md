@@ -1,6 +1,8 @@
 ---
 pagetitle: dev stuffs
 ---
+[[Back to Bookmarks' Index](http://palakmathur.in/bookmarks/)]
+
 Development
 ===========
 
