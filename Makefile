@@ -44,7 +44,5 @@ commit:
 	cd $(GHPAGES) && \
 		git push origin $(GHPAGES)
 
-deploy:
-	s3cmd sync --add-header=Expires:max-age=604800 --exclude '.git/*' --acl-public gh-pages/ s3://tylercipriani.com/links/
 
-.PHONY: clean init gh-pages commit serve deploy
+.PHONY: clean init gh-pages commit serve
