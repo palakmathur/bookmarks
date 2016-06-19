@@ -1,7 +1,7 @@
 ---
 pagetitle: Fun Zone
 ---
-[[Back to Bookmarks' Index](http://palakmathur.in/bookmarks/)]
+[[Back to Bookmarks Home](http://palakmathur.in/bookmarks/)]
 
 #Fun.
 
