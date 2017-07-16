@@ -9,8 +9,11 @@ In an effort to _not_ have 100+ tabs open&hellip;
 * [Development](Development.html)
 * [Business](Business.html)
 * [Fun](Fun.html) 
+* [Computer Science](ComputerScience.html)
+
 
 * * *
 
 * [Readlist](Readlist.html)
 * [Watchlist](Watchlist.html)
+
