@@ -5,7 +5,7 @@ pagetitle: Attempt in understanding Computer Science
 
 # Operating Systems
 
-## Introduction to Operating Systems
+### Introduction to Operating Systems
 
 * Operating Systems: Three Easy Pieces [pages.cs.wisc.edu](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * Udacity Introduction to Operating System Wiki Page [udacity.com](https://www

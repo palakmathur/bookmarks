@@ -4,7 +4,7 @@
 
 In an effort to _not_ have 100+ tabs open&hellip;
 
-* [My Photography](https://www.instagram.com/plkmthr/)
+* [My Photography](https://www.instagram.com/palak_clicks/)
 * [Design](Design.html)
 * [Development](Development.html)
 * [Business](Business.html)
