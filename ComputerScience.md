@@ -10,3 +10,5 @@ pagetitle: Attempt in understanding Computer Science
 * Operating Systems: Three Easy Pieces [pages.cs.wisc.edu](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * Udacity Introduction to Operating System Wiki Page [udacity.com](https://www
 .udacity.com/wiki/ud923/resources/text)
+* An Introduction to Programming with Threads by Andrew D. Birell [Threads](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
+
