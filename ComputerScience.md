@@ -11,4 +11,5 @@ pagetitle: Attempt in understanding Computer Science
 * Udacity Introduction to Operating System Wiki Page [udacity.com](https://www
 .udacity.com/wiki/ud923/resources/text)
 * An Introduction to Programming with Threads by Andrew D. Birell [Threads](https://s3.amazonaws.com/content.udacity-data.com/courses/ud923/references/ud923-birrell-paper.pdf)
+* Java Mutex Example [mykong.com](https://www.mkyong.com/java/java-thread-mutex-and-semaphore-example/)
 
