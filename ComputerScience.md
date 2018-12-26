@@ -3,6 +3,10 @@ pagetitle: Attempt in understanding Computer Science
 ---
 [[Back to Bookmarks Home](http://palakmathur.in/bookmarks/)]
 
+# Mathematical Prerequisites
+
+* Calculus Revisited [ocw.mit.edu](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/)
+
 # Operating Systems
 
 ### Introduction to Operating Systems
