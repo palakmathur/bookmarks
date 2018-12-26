@@ -11,9 +11,10 @@ CSSFILE = $(CSSDIR)/main.css
 
 INDEXFILE = $(GHPAGES)/index.html
 
-all: init clean $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md))))
+all: init clean $(addprefix $(GHPAGES)/, $(addsuffix .html, $(basename $(wildcard *.md)))) commit serve
 
 $(GHPAGES)/%.html: %.md $(GHPAGES) $(CSSFILE)
+	@echo Converting files to html5
 	pandoc -s --template "_layout" -c "css/main.css" -f markdown -t html5 -o "$@" "$<"
 
 $(CSSFILE): $(CSSDIR) $(LESSFILE)
@@ -25,9 +26,10 @@ $(CSSDIR):
 $(GHPAGES):
 	git clone "$(REPO)" "$(GHPAGES)"
 	@(cd $(GHPAGES) && git checkout $(GHPAGES)) || (cd $(GHPAGES) && git checkout --orphan $(GHPAGES) && git rm -rf .)
-	@touch `git status --porcelain | cut -c4- | grep .md`
+	@touch `git status --porcelain | cut -c4- | grep .md` || touch .
 
 init:
+	@echo Initializing Pandoc and Less
 	@command -v pandoc > /dev/null 2>&1 || (echo 'pandoc not found http://johnmacfarlane.net/pandoc/installing.html' && exit 1)
 	@[ -x $(LESSC) ] || npm install
 
@@ -38,6 +40,7 @@ clean:
 	rm -rf gh-pages
 
 commit:
+	@echo Committing updated files
 	cd $(GHPAGES) && \
 		git add . && \
 		git commit --message="Publish @$$(date)"
@@ -45,4 +48,4 @@ commit:
 		git push origin $(GHPAGES)
 
 
-.PHONY: clean init gh-pages commit serve
+.PHONY: clean init $(GHPAGES) commit serve
