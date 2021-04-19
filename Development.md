@@ -176,6 +176,11 @@ Cryptography
 Programming
 ---
 
+### General
+
+* Refactoring Gurus - A resource for Design Patterns and Refactoring ([refactoring.guru](https://refactoring.guru/))
+
+
 ### PHP
 
 * Awesome PHP ([gist.github](https://gist.github.com/ziadoz/1677679))
